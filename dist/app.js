@@ -17,7 +17,7 @@ var _studentRoutes = require('./routes/studentRoutes'); var _studentRoutes2 = _i
 var _photoRoutes = require('./routes/photoRoutes'); var _photoRoutes2 = _interopRequireDefault(_photoRoutes);
 
 const whiteList = [
-  'http://localhost:3000',
+  'http://104.198.77.243',
 ];
 
 const corsOptions = {
